@@ -1,3 +1,4 @@
+#DeleteDuplicateFiles
 Project Name : Delete Duplicate Files with Auto Schedule Mail Log Report Facility. 
 
 Technology : Python
